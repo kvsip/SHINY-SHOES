@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kvsip/SHINY-SHOES/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kvsip/SHINY-SHOES/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#SHINY SHOES
+WE CRAFT YOUR OWN FOOTPRINTS 
+HI Friends:-) 
+We the young spirits of KV-DINDIGUL has done a project on the subject Business Studies. Under the topic of MARKETING. 
+This is a webpage created by us on part of our Annual Project 2020-2021. 
+THIS PROJECT IS DONE BY DIMPLE THARANI, NAGADEVI, GOMATHY of class XII-B [COMMERCE]. 
+We had choosen a footwear sector to do our project. 
+Industry: FOOTWEAR.
+Founded: 2020-2021.
+Founder: DIMPLE THARANI, GOMATHI, NAGADEVI. 
+Headquarters: BANGLORE, KARNATAKA.
+CEO: M.NAGADEVI.
+Managing director:M.GOMATHI. 
+Tagline: WE CRAFT YOUR OWN FOOTPRINTS. 
+USP: BEST QUALITY WITH LEAST PRICE.
+Products: SHINY SPARKS SHOE, SHINY CASUAL SHOE, SHINY CUT SHOE, SHINY SCHOOL SHOE. 
+Reason for selecting this sector: Footwear is the most essential product in our daily life. 
+Features: We use eco-friendly materials to produce our shoes.
+We are providing a good quality with best reasonable price.
+We provide our product as per consumers' demand.
+This project is done under the guidance of MR.P.SUNDARA MURTHY--P.G.T.COMMERCE--K.V.DINDIGUL..
